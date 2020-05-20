@@ -1,0 +1,28 @@
+{
+  "name": "-Recogno-api",
+  "version": "1.0.0",
+  "description": "Backed for Recogno using Node.js, front end @https://github.com/YazanMasafah/Recogno-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YazanMasaftah/-Recogno-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YazanMasafah/-Recogno-api/issues"
+  },
+  "homepage": "https://github.com/YazanMasafah/-Recogno-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
